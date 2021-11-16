@@ -1,5 +1,5 @@
 <!-- type html and press enter to make the boiler prsented below -->
-<!DOCTYPE html> <!-- this tells the browser the version of html that computer is using; this is a HTML 5 document -->
+<!--<!DOCTYPE html>--> <!-- this tells the browser the version of html that computer is using; this is a HTML 5 document -->
 <html lang="en" dir="ltr">
 
 <head>
